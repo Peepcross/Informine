@@ -12,7 +12,7 @@ Primeramente se descargó los archivos pdb, de cada proteína, de la base de dat
 
 En la aplicacion de VMD se procedió a curar estos archivos de tal manera que solo quedara las cadenas encargadas de cumplir la funcion glutation transferasa. Las estructuras de 1bay y 1b48 poseian esta funcion en dos cadenas, A y B, mientras que el resto solo poseian la funcion en la cadena A. 
 
-Luego se usaron los archivos, ya curados, para realizar un alinieamiento en la extension de análisis de VMD, Multiseq. En esta extensión se ocupo la herramienta "Stamp structural alignement" 
+Luego se usaron los archivos, ya curados, para realizar un alinieamiento en la extension de análisis de VMD, Multiseq. En esta extensión se ocupó la herramienta "Stamp structural alignement" y el coloreado por conservación de secuencia, para  
 
 Se generó el árbol filogenético de las proteínas usando la herramienta Philogenetic tree en VMD 
 
