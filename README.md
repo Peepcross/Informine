@@ -6,6 +6,12 @@
 
 Estructuras elegidas: 1b8x, 1bay, 1pmt, 1b4p, 1b48.
 
+
+Se generó el árbol filogenético de las proteínas usando la herramienta Philogenetic tree en VMD 
+
+![imagen arbol](https://github.com/Peepcross/Informine/blob/master/arbol.png) 
+
+
 ## 
 convergencia.
 
