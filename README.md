@@ -7,6 +7,6 @@
 Estructuras elegidas: 1b8x, 1bay, 1bye, 1b4p, 1b48.
 
 ## 
-
+convergencia.
 
 
