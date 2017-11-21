@@ -12,14 +12,16 @@ Primeramente se descargó los archivos pdb, de cada proteína, de la base de dat
 
 En la aplicacion de VMD se procedió a curar estos archivos de tal manera que solo quedara las cadenas encargadas de cumplir la funcion glutation transferasa. Las estructuras de 1bay y 1b48 poseian esta funcion en dos cadenas, A y B, mientras que el resto solo poseian la funcion en la cadena A. 
 
-Luego se usaron los archivos, ya curados, para realizar un alinieamiento en la extension de análisis de VMD, Multiseq. En esta extensión se ocupó la herramienta "Stamp structural alignement" y el coloreado por conservación de secuencia, para  
+Luego se usaron los archivos, ya curados, para realizar un alinieamiento en la extension de análisis de VMD, Multiseq. En esta extensión se ocupó la herramienta "Stamp structural alignement" y el coloreado por conservación de secuencia, para destacar los residuos conservados.
 
-Se generó el árbol filogenético de las proteínas usando la herramienta Philogenetic tree en VMD 
+![curado](https://github.com/Peepcross/Informine/blob/master/multisueq.png)
 
-![imagen arbol](https://github.com/Peepcross/Informine/blob/master/arbol.png) 
+![stamp](https://github.com/Peepcross/Informine/blob/master/stamp.png)
 
+Despues se generó el árbol filogenético de las proteínas usando la herramienta Philogenetic tree en VMD, usando como criterio el porcentaje de identidad. 
 
- 
-convergencia.
+![imagen arbol](https://github.com/Peepcross/Informine/blob/master/PID.png) 
+
+Se puede observar una distancia evolutiva importante entre las proteínas, descartando un ancestro común directo, por lo que se puede concluir que existe una relación convergente entre ellas.
 
 
